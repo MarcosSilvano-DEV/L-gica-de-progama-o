@@ -1,0 +1,13 @@
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.exe
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.deps.json
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.runtimeconfig.json
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.runtimeconfig.dev.json
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.dll
+C:\Lógica de programação\bin\Debug\netcoreapp3.1\Lógica de programação.pdb
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.csprojAssemblyReference.cache
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.AssemblyInfoInputs.cache
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.AssemblyInfo.cs
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.csproj.CoreCompileInputs.cache
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.dll
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.pdb
+C:\Lógica de programação\obj\Debug\netcoreapp3.1\Lógica de programação.genruntimeconfig.cache
